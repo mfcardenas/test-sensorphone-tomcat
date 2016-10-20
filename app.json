@@ -1,0 +1,10 @@
+{
+  "name": "Sensor Data",
+  "description": "Java Web Application Using Embedded Tomcat",
+  "repository": "https://github.com/mfcardenas/test-sensorphone-tomcat.git",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tomcat-logo.svg",
+  "keywords": [
+    "java",
+    "tomcat"
+  ]
+}
