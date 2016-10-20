@@ -1,4 +1,4 @@
-## Aplicación Web para Capturar Datos de Aceleración y Giroscopio
+## Aplicación Web para Capturar Datos de Aceleración y Giroscopio del teléfono móvil.
 
 Embebida en Tomcat 8 para instanciar de forma rápida en máquina local.
 
